@@ -25,9 +25,9 @@ jobs:
             echo "✗ lab02.py not found"
             exit 1
           fi
-          if [ -f week02/lab02_prompts.md ]; then
-            echo "✓ lab02_prompts.md found"
+          if [ -f week02/week02_prompts.md ]; then
+            echo "✓ week02_prompts.md found"
           else
-            echo "✗ lab02_prompts.md not found"
+            echo "✗ week02_prompts.md not found"
             exit 1
           fi
