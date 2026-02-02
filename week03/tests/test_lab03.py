@@ -1,6 +1,7 @@
+# test_lab03.py
 import random
 from unittest.mock import patch
-from week03.lab03 import generate_mad_lib, guessing_game
+from lab03 import generate_mad_lib, guessing_game
 
 def test_generate_mad_lib():
     """
