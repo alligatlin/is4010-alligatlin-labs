@@ -1,4 +1,4 @@
-name: run-pytest
+run: pytest week03
 
 on: [push]
 
